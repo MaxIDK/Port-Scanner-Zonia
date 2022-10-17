@@ -1,5 +1,6 @@
 # Port-Scanner-Zonia
-A simple port scanner
+
+A very simple and basic port scanner
 
 
 ## Disclaimer
